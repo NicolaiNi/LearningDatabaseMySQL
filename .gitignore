@@ -1,0 +1,8 @@
+# ignore
+App.config
+*.csproj
+
+# ignore folders
+bin/
+obj/
+Properties/

@@ -1,0 +1,30 @@
+﻿<Customers>
+    <Customer>
+        <FirstName>Nicolai</FirstName>
+        <LastName>Ni</LastName>
+    </Customer>
+    <Customer>
+        <FirstName>John</FirstName>
+        <LastName>Foo</LastName>
+    </Customer>
+    <Customer>
+        <FirstName>Jack</FirstName>
+        <LastName>Johnson</LastName>
+    </Customer>
+  <Customer>
+    <FirstName>Black</FirstName>
+    <LastName>Bird</LastName>
+  </Customer>
+  <Customer>
+    <FirstName>Red</FirstName>
+    <LastName>Eye</LastName>
+  </Customer>
+  <Customer>
+    <FirstName>Green</FirstName>
+    <LastName>Fish</LastName>
+  </Customer>
+  <Customer>
+    <FirstName>Hello</FirstName>
+    <LastName>World</LastName>
+  </Customer>
+</Customers>

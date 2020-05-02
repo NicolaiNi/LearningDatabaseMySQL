@@ -1,0 +1,12 @@
+﻿<InvoiceItems>
+  <InvoiceItem>
+    <Description>Computer Type XXL</Description>
+    <Number>1</Number>
+    <PriceItem>2345.4</PriceItem>
+  </InvoiceItem>
+  <InvoiceItem>
+    <Description>SD Card</Description>
+    <Number>1</Number>
+    <PriceItem>9.99</PriceItem>
+  </InvoiceItem>
+</InvoiceItems>

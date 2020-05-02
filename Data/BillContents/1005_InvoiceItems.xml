@@ -1,0 +1,7 @@
+﻿<InvoiceItems>
+  <InvoiceItem>
+    <Description>Computer Type XXL</Description>
+    <Number>1</Number>
+    <PriceItem>2345.4</PriceItem>
+  </InvoiceItem>
+</InvoiceItems>

@@ -1,0 +1,27 @@
+﻿<Bills>
+  <Bill>
+    <Number>1000</Number>
+    <Title>Order PC1</Title> 
+  </Bill>
+  <Bill>
+    <Number>1001</Number>
+    <Title>Order Laptop</Title>
+  </Bill>
+  <Bill>
+    <Number>1002</Number>
+    <Title>Order Server</Title>
+  </Bill>
+    <Bill>
+    <Number>1003</Number>
+    <Title>Order Something</Title>
+  </Bill>
+  <Bill>
+    <Number>1004</Number>
+    <Title>Order Other</Title>
+  </Bill>
+  <Bill>
+    <Number>1005</Number>
+    <Title>Order Animals</Title>
+  </Bill>
+</Bills>
+

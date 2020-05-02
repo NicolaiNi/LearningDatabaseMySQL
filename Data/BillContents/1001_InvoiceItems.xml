@@ -1,0 +1,12 @@
+﻿<InvoiceItems>
+  <InvoiceItem>
+    <Description>Computer Type Super Cool</Description>
+    <Number>2</Number>
+    <PriceItem>1253.213</PriceItem>
+  </InvoiceItem>
+  <InvoiceItem>
+    <Description>Laptop Type CDE</Description>
+    <Number>4</Number>
+    <PriceItem>999.56</PriceItem>
+</InvoiceItem>
+</InvoiceItems>
